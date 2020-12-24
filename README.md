@@ -1,2 +1,2 @@
 # kotlin-yatch-dice
-Toy project for implementing yacht-dice with Kotlin
+A toy project for implementing yacht-dice with Kotlin
